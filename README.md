@@ -1,2 +1,2 @@
-# RAG_ChatBot(LangChain_HuggingFace_Groq_Llama3_and_Streamlit)
- Upload pdfs,web pages links,Youtube videos links ,texts and ask questions
+# RAG_ChatBot(LangChain,HuggingFace,Groq and Llama3,Streamlit)
+ Upload pdfs ,web pages links,youtube links,texts to the bot and ask questions,
